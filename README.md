@@ -1,6 +1,6 @@
 [![MasterHead](https://tenor.com/view/coding-gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Talha Ejaz</h1>
-<h3 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems. I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h3>
+<h3 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h3>
 <img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaejazh" alt="talhaejazh" /></a> </p>
