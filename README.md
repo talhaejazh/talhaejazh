@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://tenor.com/view/coding-gif)](https://rishavchanda.io) -->
-<h1 align="center">Hi 👋, I'm Muhammad Talha Ejaz</h1>
+<h1 align="center"> Muhammad Talha Ejaz</h1>
 <h5 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h5>
 
 
