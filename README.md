@@ -1,18 +1,22 @@
 <!-- [![MasterHead](https://tenor.com/view/coding-gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Muhammad Talha Ejaz</h1>
 <h5 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h5>
-<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaejazh" alt="talhaejazh" /></a> </p>
 
 -  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭 
 -  Robotics Research student at **Columbus State University**.
 -  Graduated with a Bachelors degree in **Mechatronics Engineering**.
 -  Loves building and development of robust software systems
 -  Interests - **Robotic Software Developer | Machine learning | Computer Vision | Autonomous systems**
--  Contributing Writer, Medium: https://medium.com/@talha.ej10
+-  **Contributing Writer, Medium:** https://medium.com/@talha.ej10
 -  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
 -  USA | Pakistan
+
+
+<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation.gif">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaejazh" alt="talhaejazh" /></a> </p>
+
 
 
 
