@@ -6,14 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhaejazh" alt="talhaejazh" /></a> </p>
 
 - 🔭 I’m currently working on **Autonomous Guided Vehicle using Deep Learning**
-
--  I’m currently learning **Computer Vision, Machine Learning, NLP**
--  Robotics Graduate student at the University of Maryland College Park
--  Graduated with a Bachelors degree in Computer Engineering
+-  Robotics Research student at **Columbus State University**.
+-  Graduated with a Bachelors degree in **Mechatronics Engineering**.
 -  Loves building and development of robust software systems
--  Interests - Robotic Software Developer | Machine learning | Computer Vision | Autonomous systems
+-  **Interests** - Robotic Software Developer | Machine learning | Computer Vision | Autonomous systems
 -  Contributing Writer, Medium: https://medium.com/@talha.ej10
--  How to reach me **talha.ej@hotmail.com** 📫 
+-  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
 -  USA | Pakistan
 
 
