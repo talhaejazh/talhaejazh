@@ -7,7 +7,25 @@
 
 - 🔭 I’m currently working on **Autonomous Guided Vehicle using Deep Learning**
 
-- 🌱 I’m currently learning **Computer Vision, Machine Learning, NLP**
+-  I’m currently learning **Computer Vision, Machine Learning, NLP**
+-  Robotics Graduate student at the University of Maryland College Park
+-  Graduated with a Bachelors degree in Computer Engineering
+-  Loves building and development of robust software systems
+-  Interests - Robotic Software Developer | Machine learning | Computer Vision | Autonomous systems
+-  Contributing Writer, Medium: https://medium.com/@talha.ej10
+-  How to reach me **talha.ej@hotmail.com** 📫 
+-  USA | Pakistan
+
+
+
+Technology stack
+linux c cplusplus csharp ROS CoppeliaSim opencv postman python tensorflow travisci css3 dotnet git html5 javascript matlab mssql arduino azure
+
+  > The secret of getting ahead is getting started.
+  >> Mark Twain
+
+
+
 
 - 💬 Ask me about **Python, Pandas, PowerBi**
 
