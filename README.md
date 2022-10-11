@@ -3,7 +3,7 @@
 <h5 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h5>
 
 
--  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭 
+<!-- -  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭  -->
 -  Robotics Research student at **Columbus State University**.
 -  Graduated with a Bachelors degree in **Mechatronics Engineering**.
 -  Loves building and development of robust software systems
