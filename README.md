@@ -7,7 +7,7 @@
 -  Robotics Research student at **Columbus State University**.
 -  Graduated with a Bachelors degree in **Mechatronics Engineering**.
 -  Loves building and development of robust software systems
--  Interests - **Robotic Software Developer | Machine learning | Computer Vision | Autonomous systems**
+-  Interests - **Software Developer | Machine learning | Computer Vision | Autonomous systems**
 -  **Contributing Writer, Medium:** https://medium.com/@talha.ej10
 -  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
 -  USA | Pakistan
