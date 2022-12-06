@@ -17,13 +17,14 @@
 
 
 
-<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=50% height=50%>
-<body>
+<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=10% height=10%>
+
+<!-- <body>
   <div class="box"> 
     <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"  alt="Example image"/> 
   </div>
 </body>
-[![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)](https://rishavchanda.io) -->
 
 
 
