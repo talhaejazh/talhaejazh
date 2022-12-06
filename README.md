@@ -1,7 +1,9 @@
 <!-- [![MasterHead](https://tenor.com/view/coding-gif)](https://rishavchanda.io) -->
 <h1 align="center"> Muhammad Talha Ejaz</h1>
-<h5 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h5> <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=25% height=25%>
+<h5 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h5> 
+<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=25% height=25%>
 
+<img style="position: relative; display: inline-block; left: 50%; transform: translate(-50%);" src ="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=25% height=25% />
 
 <!-- -  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭  -->
 -  Robotics Research student at **Columbus State University**.
