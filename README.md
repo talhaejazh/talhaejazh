@@ -11,8 +11,9 @@
 -  **Contributing Writer, Medium:** https://medium.com/@talha.ej10
 -  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
 -  USA | Pakistan
--  
-https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif
+
+[![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)](https://rishavchanda.io)
+
 
 
 <img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation.gif">
