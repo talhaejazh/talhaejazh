@@ -6,8 +6,7 @@
 <!-- -  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭  -->
 -  Robotics Research student at **Columbus State University**.
 -  Graduated with a Bachelors degree in **Mechatronics Engineering**.
--  Loves building and development of robust software systems. 
-<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=5% height=5%>
+-  Loves building and development of robust software systems.<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=5% height=5%>
 -  Interests - **Software Developer | Machine learning | Computer Vision | Autonomous systems**
 -  **Contributing Writer, Medium:** https://medium.com/@talha.ej10
 -  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
