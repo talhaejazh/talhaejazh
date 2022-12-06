@@ -12,6 +12,11 @@
 -  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
 -  USA | Pakistan
 
+<body>
+  <div class="box"> 
+    <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"  alt="Example image"/> 
+  </div>
+</body>
 [![MasterHead](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)](https://rishavchanda.io)
 
 
