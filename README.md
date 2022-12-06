@@ -12,43 +12,12 @@
 -  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
 -  USA | Pakistan
 
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-.portrait {
-    height: 80px;
-    width: 30px;
-}
-
-.landscape {
-    height: 30px;
-    width: 80px;
-}
-
-.square {
-    height: 75px;
-    width: 75px;
-}
-Portrait Div
-<div class="portrait">
-    <img src="http://i.stack.imgur.com/xkF9Q.jpg">
-</div>
-
-<!-- Landscape Div
-<div class="landscape">
-    <img src="http://i.stack.imgur.com/xkF9Q.jpg">
-</div>
-
-Square Div
-<div class="square">
-    <img src="http://i.stack.imgur.com/xkF9Q.jpg">
-</div> -->
 
 
 
-<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="150" height="280">
+
+
+<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=50% height=50%>
 <body>
   <div class="box"> 
     <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"  alt="Example image"/> 
