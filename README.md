@@ -6,6 +6,7 @@
 
 
 <!-- -  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭  -->
+-  Summer Intern at **Georgia Institute of Technology**.
 -  Robotics Research student at **Columbus State University**.
 -  Graduated with a Bachelors degree in **Mechatronics Engineering**.
 -  Loves building and development of robust software systems
