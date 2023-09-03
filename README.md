@@ -47,7 +47,7 @@
 
 ## Awards and Achievements:
 
-- Received a **fully funded merit-based scholarship** for master's program.
+- Received a **fully funded merit-based scholarship** for a master's program.
 - Served as a Robot Inspector at the **FIRST Robotics Competition**.
 - Selected for an online AI Joint Lab Program in Autonomous Driving led by Koç University, Turkey in 2020.
 
