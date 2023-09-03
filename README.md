@@ -32,7 +32,7 @@
 - As a **Trainee Engineer** at **Yunus Textile Mills Ltd.,** you were involved in project management, cost control, and weekly reporting.
 
 ## Research Publications:
-- Contributed to a book chapter titled @octokatherine]([https://www.github.com/octokatherine](https://link.springer.com/chapter/10.1007/978-981-16-2183-3_85))**"[EEG Based Brain Controlled RC Car with Attention Level]."**
+- Contributed to a book chapter titled **"[EEG Based Brain Controlled RC Car with Attention Level](https://link.springer.com/chapter/10.1007/978-981-16-2183-3_85)."**
 
 ## Projects:
 
