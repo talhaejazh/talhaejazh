@@ -18,7 +18,41 @@
 -  USA | Pakistan 
 
 
+## Education
+- Completed a **Masters of Science in Robotics Engineering** at **Columbus State University** with a commendable CGPA of **3.8/4.0**.
+- Relevant coursework includes subjects such as **Computer Vision, Artificial Intelligence, Kinematics, Evolutionary Computation,** and **Robotics System Design**.
+- Earned a **Bachelor of Engineering in Mechatronics** from **PAF-Karachi Institute Of Economic Technology** with a CGPA of **3.1/4.0**.
+- Undergraduate coursework covered a broad range of topics, including **Mechatronics System Design, Industrial Control Automation, Linear Control Systems, Introduction to Robotics and Computer Programming,** and more.
 
+## Employment History:
+- As a **Summer Research Intern** at **Georgia Institute of Technology,** I collaborated on web and app development, focusing on system integration and **Azure-based web applications with GIS functionality**.
+- As a **Graduate Teaching Assistant** at **Columbus State University**, I provided academic support, directed undergraduate students, and assisted in hardware and software concepts.
+- As a **Artificial Intelligence Engineer** at **Motiventive** worked on Mood Analytics project. 
+- As a **Trainee Engineer** at **Yunus Textile Mills Ltd.,** you were involved in project management, cost control, and weekly reporting.
+
+## Research Publications:
+- Contributed to a book chapter titled **"EEG Based Brain Controlled RC Car with Attention Level."**
+
+## Projects:
+
+- My projects have contributed expertise in autonomous systems, computer vision, and deep learning. Notable examples include the **UGV-based Vision System for Mapping & Assistance in Path Planning of UAV** and the **Deep CNN-Genetic Hybrid System for Obstacle Avoidance.**
+
+## Skills:
+- Proficient in programming languages such as **Python, C/C++, SQL, Java,** and **LATEX**.
+- Familiar with various IDEs, including **IntelliJ, Jupyter, Spyder, PyCharm**, and more.
+- Skilled in using tools like **ROS, Gazebo, Rviz, Mission Planner,** and **Git**.
+- Deep learning expertise includes **Tensorflow, Pytorch, Keras,** and more.
+- Experienced with operating systems like **Windows, Ubuntu, Linux, Raspbian, Mac**.
+
+## Awards and Achievements:
+
+- Received a **fully funded merit-based scholarship** for master's program.
+- Served as a Robot Inspector at the **FIRST Robotics Competition**.
+- Selected for an online AI Joint Lab Program in Autonomous Driving led by Koç University, Turkey in 2020.
+
+## Professional Training:
+
+- Completed various professional courses, including **Visual Perception for Self-Driving Cars, AI for Medical Diagnosis,** and **Apache Spark With Scala Hands On with Big Data**.
 
 
 
