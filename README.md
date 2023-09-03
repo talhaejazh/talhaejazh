@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Muhammad Talha! 👋/h1>
+<h1 align="center"> Hi, I'm Muhammad Talha! 👋
 <!-- <h1 align="center"> Muhammad Talha Ejaz</h1> -->
 
 <h5 align="center">I am a recently graduated student who pursued a fully-funded master's program in Robotics Engineering, coupled with an undergraduate degree in Mechatronics Engineering. I am particularly drawn to smart autonomous systems and find immense satisfaction in designing solutions that automate tedious, hazardous, and routine tasks, ultimately contributing to the betterment of human lives. My recent focus has been on Machine Learning, Computer Vision, and Robotics system design. Moreover, I had the opportunity to work as a summer research intern at Georgia Tech.</h5> 
