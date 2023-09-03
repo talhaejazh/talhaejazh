@@ -32,11 +32,11 @@
 - As a **Trainee Engineer** at **Yunus Textile Mills Ltd.,** you were involved in project management, cost control, and weekly reporting.
 
 ## Research Publications:
-- Contributed to a book chapter titled **"[EEG Based Brain Controlled RC Car with Attention Level](https://link.springer.com/chapter/10.1007/978-981-16-2183-3_85)."**
+- Contributed to a book chapter titled [**"EEG Based Brain Controlled RC Car with Attention Level."**](https://link.springer.com/chapter/10.1007/978-981-16-2183-3_85)
 
 ## Projects:
 
-- My projects have contributed expertise in autonomous systems, computer vision, and deep learning. Notable examples include the **UGV-based Vision System for Mapping & Assistance in Path Planning of UAV** and the **Deep CNN-Genetic Hybrid System for Obstacle Avoidance.**
+- My projects have contributed expertise in autonomous systems, computer vision, and deep learning. Notable examples include the [**UGV-based Vision System for Mapping & Assistance in Path Planning of UAV**](https://www.youtube.com/watch?v=5DCvclQwxKQ) and the [**Deep CNN-Genetic Hybrid System for Obstacle Avoidance.**](https://www.youtube.com/watch?v=D8EmFgQnPuM)
 
 ## Skills:
 - Proficient in programming languages such as **Python, C/C++, SQL, Java,** and **LATEX**.
@@ -54,6 +54,13 @@
 ## Professional Training:
 
 - Completed various professional courses, including **Visual Perception for Self-Driving Cars, AI for Medical Diagnosis,** and **Apache Spark With Scala Hands On with Big Data**.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://talhaejazh.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-ejaz-hussain-a8236ba4/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/talhaejaz2)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/your-channel-url](https://www.youtube.com/@talhaejaz7651/videos))
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talhaejazhu/)
+
 
 
 
@@ -94,4 +101,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaejazh&show_icons=true&locale=en" alt="talhaejazh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaejazh&" alt="talhaejazh" /></p>
+
 
