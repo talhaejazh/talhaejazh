@@ -6,6 +6,7 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=25% height=25%></h1>
 
+## 🚀 About Me
 
 <!-- -  I’m currently working on **Autonomous Guided Vehicle using Deep Learning** 🔭  -->
 -  Summer Intern at **Georgia Institute of Technology**.
