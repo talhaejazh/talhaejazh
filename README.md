@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Muhammad Talha! 👋
 <!-- <h1 align="center"> Muhammad Talha Ejaz</h1> -->
 
-<h5 align="center">I am a recently graduated student who pursued a fully-funded master's program in Robotics Engineering, coupled with an undergraduate degree in Mechatronics Engineering. I am particularly drawn to smart autonomous systems and find immense satisfaction in designing solutions that automate tedious, hazardous, and routine tasks, ultimately contributing to the betterment of human lives. My recent focus has been on Machine Learning, Computer Vision, and Robotics system design. Moreover, I had the opportunity to work as a summer research intern at Georgia Tech.</h5> 
+<h5 align="center">Robotics, Electronics, Software, and Data; not a jack of all trades but as an all-rounder, I have come a long way. Presently, a graduate student pursuing my Masters in Robotics from Columbus State University, Georgia, US, I completed my Bachelor's in Mechatronics from PAF-KIET, Pakistan</h5> 
 <!-- <h5 align="center">A Graduate Student pursuing a fully-funded master’s program in Robotics Engineering with an undergraduate degree in Mechatronics Engineering.I like smart autonomous systems and I love to design systems that would automate the dull, dangerous, and mundane tasks and make a difference in human lives for betterment. I have recently been working on Machine Learning , Computer Vision, & Robotics system design.</h5>  -->
 
 <h1 align="center"> <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width=25% height=25%></h1>
