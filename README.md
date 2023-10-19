@@ -15,7 +15,7 @@
 -  Loves building and development of robust software systems
 -  Interests - **Software Developer | Machine learning | Computer Vision | Autonomous systems** .
 -  **Contributing Writer, Medium:** https://medium.com/@talha.ej10
--  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@columbusstate.edu** 📫 
+-  How to reach me **talha.ej@hotmail.com** or **ejaz_muhammadtalha@students.columbusstate.edu** 📫 
 -  USA | Pakistan 
 
 
